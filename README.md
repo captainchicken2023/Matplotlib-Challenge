@@ -94,4 +94,5 @@ Resources:
 - Office Hours
 - AskBCS
 - https://pandas.pydata.org/
+- https://matplotlib.org
 - https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/
