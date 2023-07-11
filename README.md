@@ -96,3 +96,4 @@ Resources:
 - https://pandas.pydata.org/
 - https://matplotlib.org
 - https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/
+- https://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot
